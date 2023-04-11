@@ -1,0 +1,36 @@
+body{background-color: gray;}
+.title{
+    font-size: 7rem;
+    text-align: center;
+    color:#52b788;
+    font-family: 'Gloria Hallelujah', cursive;
+    margin: 10px;
+}
+
+.dicees{
+margin-top: 0px;
+display: flex;
+justify-content: center;}
+
+.player_1{
+margin-right: 120px;
+text-align: center;
+color:#52b788;
+font-family: 'Gloria Hallelujah', cursive;
+}
+.player_2{
+text-align: center;
+color:#52b788;
+font-family: 'Gloria Hallelujah', cursive;
+}
+.btn{
+margin: 0 auto;
+display: flex;
+justify-content: center;
+}
+button{
+    background-color: #52b788;
+    font-size: 30px;
+    border: black;
+    color: #fff;
+}
